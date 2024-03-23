@@ -84,7 +84,7 @@ body {
 @media screen and (max-width: 900px) {
    .wrapper {
     flex-direction: column;
-    height: 100vh;
+    height: 110vh;
     padding-bottom: 50px;
    }
    .left-wrapper {
@@ -100,7 +100,7 @@ body {
     flex-direction: column;
    }
    .vers {
-    margin-top: 200px;
+    margin-top: 250px;
     box-sizing: border-box;
     padding-bottom: 400px;
    }
