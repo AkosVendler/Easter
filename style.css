@@ -17,6 +17,7 @@ body {
     font-family: "Switzer-Variable";
     font-weight: 900; 
     background: #A0AFEA;
+    overflow-x: hidden;
 }
 
 .wrapper {
